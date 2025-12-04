@@ -1,5 +1,13 @@
-# ANFORCOM-DDSC-2025
-ANFORCOM DDSC COMPETITION 2025
+# ANFORCOM DDSC COMPETITION 2025
+Finalis ANFORCOM DDSC COMPETITION 2025 yang Diselenggarakan oleh Binus University
+
+Anggota tim:
+
+Dalila Tazkia
+Jihan Aqilah
+Asri Sabilla Putri
+
+Notebook ini memuat seluruh alur analisis data dan permodelan yang digunakan dalam kompetisi.
 
 # Pengklasifikasi Teks Bahasa Indonesia: 8 Pilar Astacita
 
