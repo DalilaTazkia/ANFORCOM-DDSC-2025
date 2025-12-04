@@ -1,5 +1,5 @@
 # ANFORCOM DDSC COMPETITION 2025
-**Finalis** ANFORCOM DDSC COMPETITION 2025 yang Diselenggarakan oleh **Binus University**
+**Finalis** ANFORCOM DDSC COMPETITION 2025 yang Diselenggarakan oleh **Universitas Diponegoro**
 
 Anggota tim:
 
