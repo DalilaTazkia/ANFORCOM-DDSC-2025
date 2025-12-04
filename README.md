@@ -1,12 +1,6 @@
 # ANFORCOM DDSC COMPETITION 2025
 **Finalis** ANFORCOM DDSC COMPETITION 2025 yang Diselenggarakan oleh **Universitas Diponegoro**
 
-Anggota tim:
-
-* **Dalila Tazkia**
-* **Jihan Aqilah**
-* **Asri Sabilla Putri**
-
 Notebook ini memuat seluruh alur analisis data dan permodelan yang digunakan dalam kompetisi.
 
 ---
@@ -112,3 +106,11 @@ Hasil prediksi pada data `test.csv` disimpan dalam file:
 `test_predictions.csv`
 
 Kolom yang disimpan: `id`, `text`, dan `label` hasil prediksi.
+
+
+## Anggota tim:
+
+* **Dalila Tazkia**
+* **Jihan Aqilah**
+* **Asri Sabilla Putri**
+
