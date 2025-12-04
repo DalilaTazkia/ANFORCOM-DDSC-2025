@@ -1,9 +1,4 @@
 # ANFORCOM DDSC COMPETITION 2025
-Finalis ANFORCOM DDSC COMPETITION 2025 yang Diselenggarakan oleh Binus University
-
-
-#   **Data Science Competition 2025 – Tim ThreeVolution**
-
 **Finalis** ANFORCOM DDSC COMPETITION 2025 yang Diselenggarakan oleh **Binus University**
 
 Anggota tim:
